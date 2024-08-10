@@ -2,6 +2,7 @@
 # Weather-Watch
 
 A  weather website built using React + Vite, along with HTML, CSS, and JavaScript. This application provides weather information based on the searched location. This project is hosted on Vercel and can be accessed here https://weather-watch-zeta.vercel.app/
+![image](https://github.com/user-attachments/assets/dd52772b-c507-4d30-a82e-26e9bef821d3)
 
 
 ## Features
